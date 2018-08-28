@@ -5,8 +5,8 @@ Personal repository to submit my individual assignment.
 This is my personal repository to submit all my individual assignments that I do throughout this class.  
 >
 ## License information  
-This project is licensed under the ..  
-See the License.md file for more details about the license.
+This project is licensed under the GNU GENERAL PUBLIC LICENSE  
+See the License file for more details about the license.
 >
 ## Contributors:  
 Sujana Panta
