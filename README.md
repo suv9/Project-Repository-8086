@@ -8,7 +8,7 @@ This is my personal repository to submit all my individual assignments that I do
 This project is licensed under the GNU GENERAL PUBLIC LICENSE  
 See the License file for more details about the license.
 >
-## Contributors:  
+## Contributors  
 Sujana Panta
 >
 ## List of files  
