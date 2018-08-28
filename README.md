@@ -12,8 +12,7 @@ See the License file for more details about the license.
 _Sujana Panta_
 >
 ## List of files  
-1. Readme.md
-2. Data Entry Analysis
-3. Background Research
-4. Peer Review
-5. Service Learning Reflection
+1. Data Entry Analysis
+2. Background Research
+3. Peer Review
+4. Service Learning Reflection
