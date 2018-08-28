@@ -5,11 +5,11 @@ Personal repository to submit my individual assignment.
 This is my personal repository to submit all my individual assignments that I do throughout this class.  
 >
 ## License information  
-This project is licensed under the GNU GENERAL PUBLIC LICENSE  
+This project is licensed under the **GNU GENERAL PUBLIC LICENSE**  
 See the License file for more details about the license.
 >
 ## Contributors  
-Sujana Panta
+_Sujana Panta_
 >
 ## List of files  
 1. Readme.md
