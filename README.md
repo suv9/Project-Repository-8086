@@ -2,7 +2,7 @@
 Personal repository to submit my individual assignment.  
   
 ## Overview  
-This is my personal repository to submit all my individual assignments that I do throughout the class _ISQA 8086_.  
+This is my personal repository to submit all my individual assignments that I do throughout the class **_Special Topics: From Data to Decisions_**.  
 >
 ## License information  
 This project is licensed under the **GNU GENERAL PUBLIC LICENSE**  
