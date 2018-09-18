@@ -19,5 +19,5 @@
 5.    Specify the reason for missing data 
 6.    Add descriptions to the graphs 
 
-Date | Species | Time | Temperature(fahrenheit or celsius) | Density | Depth (meters) | Colony
+Date | Species | Time | Temperature  (fahrenheit or celsius) | Density  (liter or milliliter) | Depth (meters) | Colony
 ---| --- | ---- | --- | --- | --- | ---- | 
