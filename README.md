@@ -16,7 +16,6 @@ Dr. Andrea Wiggins
 Sujana Panta
 >
 ## List of files  
-1. Data Entry Analysis
+1. Data Entry Analysis [Click Here](https://github.com/suv9/Project-Repository-8086/blob/master/Data%20Entry%20Analysis) 
 2. Background Research
-3. Peer Review
-4. Service Learning Reflection
+
