@@ -1,4 +1,4 @@
-## I was able to detect the following errors and issues in the three files:
+## I was able to detect the following errors and issues in the three files
 1. One of the columns in the pons2010 file is labeled as “z.” It is unclear what “z” stands for.
 2. Data are missing at many places. The reason for missing data is not indicated. 
 3. Some missing data are color-coded, whereas others are not. The meaning of color codes is not mentioned. 
@@ -9,7 +9,7 @@
 8. It is unclear whether data were collected during nighttime or daytime. 
 9. The graphs are difficult to understand because of a lack of description. Also, in one file, there is no label for data displayed in the vertical axis.
 
-## Suggestions:
+## Suggestions
 1.    Use consistent header over files.
 2.    Add unit
 3.    Spell short forms, or add description to explain the short forms
