@@ -16,6 +16,6 @@ Dr. Andrea Wiggins
 Sujana Panta
 >
 ## List of files  
-1. Data Entry Analysis [Click Here](https://github.com/suv9/Project-Repository-8086/blob/master/Data_entry_analysis.md) 
-2. Background Research
+1. Data Entry Analysis [Click Here for link to data entry analysis file](https://github.com/suv9/Project-Repository-8086/blob/master/Data_entry_analysis.md) 
+2. Background Research [Click Here for link to background research](https://github.com/suv9/Project-Repository-8086/blob/master/background_research.md)
 
