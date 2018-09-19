@@ -19,7 +19,7 @@
 5.    Specify the reason for missing data 
 6.    Add descriptions to the graphs 
 
-Date | Species | Time (AM, PM) | Temperature  (fahrenheit) | Density  (milliliter) | Depth (meters) | Colony Diameter  (units)
+Date | Species | Time (AM/PM) | Temperature  (fahrenheit) | Density  (milliliter) | Depth (meters) | Colony Diameter  (units)
 ---| --- | ---- | --- | --- | --- | ---- | 
-  6/5/2010 |  cuni |   |   |   |   |   |   |   |
+  6/5/2010 |  cuni | 2am  | 15.2  | 76  |  0.4  | 3.22 |
     
