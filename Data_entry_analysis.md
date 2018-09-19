@@ -1,7 +1,7 @@
 # Data Entry Analysis
 
 ## I was able to detect the following errors and issues in the three files
-1. One of the columns in the pons2010 file is labeled as “z.” It is unclear what “z” stands for. In the same column the variation in the data is really hig. (eg: 0.5 vs 50)
+1. One of the columns in the pond2010 file is labeled as “z.” It is unclear what “z” stands for. In the same column the variation in the data is really hig. (eg: 0.5 vs 50)
 2. Data are missing at many places. The reason for missing data is not indicated. 
 3. Some missing data are color-coded, whereas others are not. The meaning of color codes is not mentioned. 
 4. The captions or headers are different and not in order in the files.
